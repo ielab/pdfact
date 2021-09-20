@@ -120,8 +120,6 @@ public class PdfActCli {
         cause.printStackTrace();
       }
     }
-
-    System.exit(statusCode);
   }
 
   // ==============================================================================================
