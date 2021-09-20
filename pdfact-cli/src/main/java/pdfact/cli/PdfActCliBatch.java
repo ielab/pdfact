@@ -10,7 +10,6 @@ import me.tongfei.progressbar.*;
 public class PdfActCliBatch {
 
     public static void main(String[] args) {
-//        String dir = "/Users/koo01a/ir.collections/agask-sources/reports";
 
         String dir = args[0];
 
